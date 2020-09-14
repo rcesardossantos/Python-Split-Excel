@@ -1,6 +1,3 @@
 # SplitExcelPython
 
-Aplicação para divisão de Large xlsx por Python 
-
-
-
+Aplicação para divisão de arquivos xlsx (large Excel) utulizando Python. 
